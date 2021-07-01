@@ -1,1 +1,1 @@
-This is my project for all javascript lessons
+This is my project for all javascript lesson.
